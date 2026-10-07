@@ -1,0 +1,14 @@
+{
+  "review_id": "R005",
+  "status": "ANALYZED",
+  "language": "en",
+  "sentiment": "mixed",
+  "urgency": "low",
+  "categories": [
+    "produkto_kokybe",
+    "pristatymas"
+  ],
+  "summary": "Ausinių garsas puikus ir pristatymas greitas, bet įkrovimo dėklas atrodo pigus, dangtelis kliba.",
+  "reply_draft": "Thank you for your feedback! We're glad you enjoy the sound and fast delivery. We're sorry about the charging case lid – please contact us and we'll arrange a replacement case under warranty.",
+  "notes": "Atsiliepimas anglų kalba → atsakymas taip pat anglų kalba."
+}

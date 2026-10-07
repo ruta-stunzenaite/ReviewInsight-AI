@@ -1,0 +1,17 @@
+{
+  "review_id": "R002",
+  "status": "ANALYZED",
+  "language": "lt",
+  "sentiment": "negative",
+  "urgency": "high",
+  "categories": [
+    "pristatymas",
+    "pakuote",
+    "produkto_kokybe",
+    "klientu_aptarnavimas",
+    "grazinimas_ir_garantija"
+  ],
+  "summary": "Vėlavęs 3 savaites pristatymas, sulamdyta pakuotė, neveikiantis aparatas ir neatsakyti laiškai; klientas nori grąžinti pinigus.",
+  "reply_draft": "Atsiprašome už vėlavimą ir sugadintą prekę – tai neatitinka mūsų standartų. Jūsų grąžinimą jau perdavėme vadybininkui: per 1 darbo dieną susisieksime el. paštu dėl pinigų grąžinimo ir prekės paėmimo.",
+  "notes": "Keli problemų tipai + aiškus grąžinimo reikalavimas → aukštas skubumas."
+}

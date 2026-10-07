@@ -1,0 +1,14 @@
+{
+  "review_id": "R004",
+  "status": "ANALYZED",
+  "language": "lt",
+  "sentiment": "negative",
+  "urgency": "critical",
+  "categories": [
+    "saugumas",
+    "produkto_kokybe"
+  ],
+  "summary": "Po savaitės virdulio laidas įkaista ir skleidžia degėsių kvapą – galimas saugumo pavojus.",
+  "reply_draft": "Labai ačiū, kad pranešėte. Prašome nedelsiant nebenaudoti virdulio ir atjungti jį nuo elektros tinklo. Šiandien su jumis susisieks mūsų komanda dėl nemokamo grąžinimo ir pinigų grąžinimo.",
+  "notes": "Saugumo rizika visada → critical, net jei atsiliepimas trumpas."
+}

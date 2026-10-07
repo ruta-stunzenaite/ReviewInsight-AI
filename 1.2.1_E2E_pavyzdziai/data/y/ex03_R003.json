@@ -1,0 +1,15 @@
+{
+  "review_id": "R003",
+  "status": "ANALYZED",
+  "language": "lt",
+  "sentiment": "mixed",
+  "urgency": "medium",
+  "categories": [
+    "produkto_aprasymas",
+    "kaina",
+    "produkto_kokybe"
+  ],
+  "summary": "Siurblys traukia gerai, tačiau triukšmingesnis nei aprašyme, o kaina atrodo per didelė.",
+  "reply_draft": "Ačiū už atvirą atsiliepimą! Patikrinsime, ar aprašyme nurodytas triukšmo lygis tikslus, ir jį pataisysime. Jei siurblio triukšmas trukdo, galite jį grąžinti per 14 dienų.",
+  "notes": "Teigiamų ir neigiamų aspektų mišinys; galimai klaidingas aprašymas."
+}

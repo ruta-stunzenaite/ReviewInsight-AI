@@ -1,0 +1,11 @@
+{
+  "review_id": "R006",
+  "status": "REJECTED",
+  "language": null,
+  "sentiment": null,
+  "urgency": null,
+  "categories": [],
+  "summary": null,
+  "reply_draft": null,
+  "notes": "Per trumpas tekstas (< 15 simbolių be skyrybos) – atmetamas paruošimo etape, Gemini API nekviečiamas."
+}

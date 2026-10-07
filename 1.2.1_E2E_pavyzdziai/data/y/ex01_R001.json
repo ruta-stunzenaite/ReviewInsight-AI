@@ -1,0 +1,14 @@
+{
+  "review_id": "R001",
+  "status": "ANALYZED",
+  "language": "lt",
+  "sentiment": "positive",
+  "urgency": "low",
+  "categories": [
+    "produkto_kokybe",
+    "pristatymas"
+  ],
+  "summary": "Klientas labai patenkintas ausinių garsu, baterija ir greitu pristatymu.",
+  "reply_draft": "Labai ačiū už puikų įvertinimą! Džiaugiamės, kad ausinės SoundAir jums patiko ir pristatymas buvo greitas. Gero klausymosi!",
+  "notes": "Teigiamas atsiliepimas – atsakymas padėkos, be skubumo."
+}
