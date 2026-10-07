@@ -50,4 +50,4 @@ Jei GitHub nepasiekiamas, naudojama užrašinėje įterpta tų pačių duomenų 
 
 ---
 
-[← Grįžti į projektą](../README.md)
+[← Grįžti į projekto aprašymą](../README.md)
