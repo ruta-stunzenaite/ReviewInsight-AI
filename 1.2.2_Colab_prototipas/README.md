@@ -47,6 +47,8 @@ Jei GitHub nepasiekiamas, naudojama užrašinėje įterpta tų pačių duomenų 
 | `404 NOT_FOUND` | modelis nepasiekiamas – užrašinė automatiškai bando kitą iš `MODEL_CANDIDATES` |
 | `429 RESOURCE_EXHAUSTED` | viršytas nemokamo plano limitas – palaukite minutę ir paleiskite iš naujo |
 | `403 PERMISSION_DENIED` | Google užblokavo prieigą paskyrai ar projektui – patikrinkite AI Studio **Projects** / **Billing** puslapius |
+| `503 UNAVAILABLE` | Modelis laikinai perkrautas (didelė apkrova) – užrašinė automatiškai bando kitą modelį |
+| `504 DEADLINE_EXCEEDED` | Modelis neatsakė per 30 s (dažniausiai perkrautas arba gemini-flash-latest alias) – užrašinė bando kitą modelį. |
 
 ---
 
