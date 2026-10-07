@@ -90,7 +90,7 @@
 ]
 ```
 
-## Faktinis ChatGPT atsakymas
+## Faktinis Claude atsakymas
 
 _(claude opus 5.5)_
 
