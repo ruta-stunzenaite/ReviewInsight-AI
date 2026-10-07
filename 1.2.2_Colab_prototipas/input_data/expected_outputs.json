@@ -1,0 +1,87 @@
+[
+  {
+    "review_id": "R001",
+    "status": "ANALYZED",
+    "language": "lt",
+    "sentiment": "positive",
+    "urgency": "low",
+    "categories": [
+      "produkto_kokybe",
+      "pristatymas"
+    ],
+    "summary": "Klientas labai patenkintas ausinių garsu, baterija ir greitu pristatymu.",
+    "reply_draft": "Labai ačiū už puikų įvertinimą! Džiaugiamės, kad ausinės SoundAir jums patiko ir pristatymas buvo greitas. Gero klausymosi!",
+    "notes": "Teigiamas atsiliepimas – atsakymas padėkos, be skubumo."
+  },
+  {
+    "review_id": "R002",
+    "status": "ANALYZED",
+    "language": "lt",
+    "sentiment": "negative",
+    "urgency": "high",
+    "categories": [
+      "pristatymas",
+      "pakuote",
+      "produkto_kokybe",
+      "klientu_aptarnavimas",
+      "grazinimas_ir_garantija"
+    ],
+    "summary": "Vėlavęs 3 savaites pristatymas, sulamdyta pakuotė, neveikiantis aparatas ir neatsakyti laiškai; klientas nori grąžinti pinigus.",
+    "reply_draft": "Atsiprašome už vėlavimą ir sugadintą prekę – tai neatitinka mūsų standartų. Jūsų grąžinimą jau perdavėme vadybininkui: per 1 darbo dieną susisieksime el. paštu dėl pinigų grąžinimo ir prekės paėmimo.",
+    "notes": "Keli problemų tipai + aiškus grąžinimo reikalavimas → aukštas skubumas."
+  },
+  {
+    "review_id": "R003",
+    "status": "ANALYZED",
+    "language": "lt",
+    "sentiment": "mixed",
+    "urgency": "medium",
+    "categories": [
+      "produkto_aprasymas",
+      "kaina",
+      "produkto_kokybe"
+    ],
+    "summary": "Siurblys traukia gerai, tačiau triukšmingesnis nei aprašyme, o kaina atrodo per didelė.",
+    "reply_draft": "Ačiū už atvirą atsiliepimą! Patikrinsime, ar aprašyme nurodytas triukšmo lygis tikslus, ir jį pataisysime. Jei siurblio triukšmas trukdo, galite jį grąžinti per 14 dienų.",
+    "notes": "Teigiamų ir neigiamų aspektų mišinys; galimai klaidingas aprašymas."
+  },
+  {
+    "review_id": "R004",
+    "status": "ANALYZED",
+    "language": "lt",
+    "sentiment": "negative",
+    "urgency": "critical",
+    "categories": [
+      "saugumas",
+      "produkto_kokybe"
+    ],
+    "summary": "Po savaitės virdulio laidas įkaista ir skleidžia degėsių kvapą – galimas saugumo pavojus.",
+    "reply_draft": "Labai ačiū, kad pranešėte. Prašome nedelsiant nebenaudoti virdulio ir atjungti jį nuo elektros tinklo. Šiandien su jumis susisieks mūsų komanda dėl nemokamo grąžinimo ir pinigų grąžinimo.",
+    "notes": "Saugumo rizika visada → critical, net jei atsiliepimas trumpas."
+  },
+  {
+    "review_id": "R005",
+    "status": "ANALYZED",
+    "language": "en",
+    "sentiment": "mixed",
+    "urgency": "low",
+    "categories": [
+      "produkto_kokybe",
+      "pristatymas"
+    ],
+    "summary": "Ausinių garsas puikus ir pristatymas greitas, bet įkrovimo dėklas atrodo pigus, dangtelis kliba.",
+    "reply_draft": "Thank you for your feedback! We're glad you enjoy the sound and fast delivery. We're sorry about the charging case lid – please contact us and we'll arrange a replacement case under warranty.",
+    "notes": "Atsiliepimas anglų kalba → atsakymas taip pat anglų kalba."
+  },
+  {
+    "review_id": "R006",
+    "status": "REJECTED",
+    "language": null,
+    "sentiment": null,
+    "urgency": null,
+    "categories": [],
+    "summary": null,
+    "reply_draft": null,
+    "notes": "Per trumpas tekstas (< 15 simbolių be skyrybos) – atmetamas paruošimo etape, Gemini API nekviečiamas."
+  }
+]
