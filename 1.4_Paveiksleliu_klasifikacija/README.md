@@ -1,6 +1,6 @@
 # 1.4 – Paveikslėlių klasifikacija su CNN (Intel Image Classification)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.4_Paveikseliu_klasifikacija/cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.4_Paveiksleliu_klasifikacija/cnn.ipynb)
 
 Užrašinė [`cnn.ipynb`](cnn.ipynb) apmoko **konvoliucinį neuroninį tinklą (CNN) nuo nulio**: modelis kiekvienai nuotraukai priskiria vieną iš 6 klasių (pastatai, miškas, ledynas, kalnai, jūra, gatvė). Pabaigoje CNN palyginamas su paprastu `Dense` tinklu (MLP), kad matytųsi konvoliucijų nauda.
 
