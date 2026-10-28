@@ -2,8 +2,8 @@
 
 | Užrašinė | Paskirtis | Atidaryti |
 |---|---|---|
-| `cnn_One_Image.ipynb` | Viena nuotrauka: klasifikacija, objektų aptikimas, segmentacija | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.5_Paveikseliu_klasifikacija/cnn_One_Image.ipynb) |
-| `cnn_Transfer_learning.ipynb` | Transfer learning: paruoštas modelis pritaikomas savo duomenims | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.5_Paveikseliu_klasifikacija/cnn_Transfer_learning.ipynb) |
+| `cnn_One_Image.ipynb` | Viena nuotrauka: klasifikacija, objektų aptikimas, segmentacija | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.5_Paveiksleliu_klasifikacija/cnn_One_Image.ipynb) |
+| `cnn_Transfer_learning.ipynb` | Transfer learning: paruoštas modelis pritaikomas savo duomenims | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruta-stunzenaite/ReviewInsight-AI/blob/main/1.5_Paveiksleliu_klasifikacija/cnn_Transfer_learning.ipynb) |
 
 Abi užrašinės naudoja **jau išmokytus modelius iš TensorFlow Hub** (EfficientNetV2 ir kt.), o ne mokosi nuo nulio.
 
