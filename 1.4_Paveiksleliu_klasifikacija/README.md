@@ -40,11 +40,18 @@ Klasės: `buildings`, `forest`, `glacier`, `mountain`, `sea`, `street`. Original
 |---|---|
 | **Part 1. CNN** | Nuotraukų įkėlimas, normalizavimas (÷ 255), 3 × `Conv2D` su `MaxPooling`, `Flatten`, `Dense(6)`. Mokymas 20 epochų |
 | **Part 2. Filtrai** | Pirmojo sluoksnio filtrų ir feature maps vizualizacija, konvoliucijos skaičiavimas rankiniu būdu su `numpy` |
-| **Part 3. MLP** | Ta pati užduotis su `Dense` tinklu be konvoliucijų |
+| **Part 3. MLP** | Ta pati užduotis su `Dense` tinklu be konvoliucijų (`Flatten` → 32 → 64 → 64 → išėjimas), mokymas 15 epochų |
 
 ## Orientaciniai rezultatai
 
-CNN pasiekia maždaug **65–75 %**, o MLP gerokai mažiau (**~45–55 %**). Skirtumas parodo, kad konvoliuciniai sluoksniai nuotraukoms tinka daug geriau. Tikslūs skaičiai kiekvieną kartą skiriasi.
+Rezultatai iš išsaugoto paleidimo (3 000 testavimo nuotraukų; kiekvieną kartą šiek tiek skiriasi):
+
+| Modelis | Accuracy | Pastabos |
+|---|---|---|
+| CNN (20 epochų) | **~74,9 %** | mokymo tikslumas ~94 %, o validacijos nuo ~18 epochos krenta (~77,6 % → ~74,9 %), t. y. matomas **overfitting** |
+| MLP (15 epochų) | **~57,9 %** | mokymo tikslumas ~64 % |
+
+Skirtumas ~17 procentinių punktų parodo, kad konvoliuciniai sluoksniai nuotraukoms tinka daug geriau. Pastaba: kaip `validation_data` naudojama pati testavimo aibė, todėl atskiros validacijos aibės nėra.
 
 ## Dažniausios problemos
 
